@@ -1,11 +1,9 @@
 # Perl_File_Renamer
 
-Usage:
-
-Save the script as rename.pl.
+### Usage:
 
 
-Make it executable:
+Make rename.pl executable:
 
 ```
 chmod +x rename.pl
