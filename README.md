@@ -12,4 +12,7 @@ chmod +x rename.pl
 ```
 
 Run the script like this:
+
+```
 ./rename.pl old_file.txt new_file.txt
+```
